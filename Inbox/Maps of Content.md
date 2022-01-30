@@ -1,7 +1,7 @@
 ---
 aliases: ["Map of Content", "Maps of Content", "MoC"]
 ---
-[Start Here](Start%20Here.md)
+[Start Here](/Start%20Here.md)
 # Maps of Content
 
 #TODO: Add a description.
