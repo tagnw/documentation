@@ -4,5 +4,7 @@
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "promptDelete": false
+  "promptDelete": false,
+  "foldIndent": true,
+  "newLinkFormat": "absolute"
 }
