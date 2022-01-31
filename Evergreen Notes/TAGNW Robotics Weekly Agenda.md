@@ -1,4 +1,4 @@
-[TAGNW Robotics](Evergreen%20Notes/TAGNW%20Robotics.md)
+[TAGNW Robotics](TAGNW%20Robotics.md)
 # TAGNW Robotics Weekly Agenda
 
 Formal part is slide deck, each bullet being a slide:

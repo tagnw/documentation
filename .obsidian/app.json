@@ -6,5 +6,6 @@
   "newFileFolderPath": "Inbox",
   "promptDelete": false,
   "foldIndent": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
 }
