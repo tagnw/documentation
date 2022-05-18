@@ -26,7 +26,6 @@ Instructions for setting up the the RoboRuckus game and programming a Ring:bit C
 
 1. Download the large files needed
 	1. Visual Studio Code
-	2. [Raspberry Pi OS Lite 64-bit](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-64-bit)
 2. [Install the PlatformIO IDE extension for Visual Studio Code](https://docs.platformio.org/en/latest/integration/ide/vscode.html#installation)
 	1. Open Visual Studio Code
 	2. Either click on the extension icon (insert screenshot) or press `ctrl+shift+x` to open the extensions marketplace
