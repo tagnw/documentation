@@ -74,7 +74,7 @@ Instructions for setting up the the RoboRuckus game and programming a Ring:bit C
 	2. [Tune robot(s)](https://www.roboruckus.com/documentation/running-a-game/#Tuning-the-Robots)
 12. [Play!](https://www.roboruckus.com/documentation/running-a-game)
 13. To update the robot's firmware:
-	1. Connect to the same network as it and conenct it's IP address anytime when it's showing a smiley face.
+	1. Connect to the same network as it and conenct its IP address anytime when it's showing a smiley face.
 	2. Upload the `.pio/build/esp32dev/firmware.bin` file from Platform.io
 	3. The update will take a while, wait until the robot shows a check-mark and reboots.
 14. Gyroscope calibraton:
